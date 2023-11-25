@@ -1,0 +1,16 @@
+.imageName{
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+#topic{
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+    text-transform: capitalize;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
